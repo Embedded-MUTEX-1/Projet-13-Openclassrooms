@@ -1,0 +1,17 @@
+.msg {
+    margin: 15px;
+}
+
+.msg-content {
+    padding: 10px;  
+    border-radius: 10px;
+    background-color: rgb(210, 255, 223);
+    width: fit-content;
+    margin-left: auto;
+}
+
+.reply {
+    margin-left: 0;
+    margin-right: auto;
+    background-color: rgb(229, 235, 253);
+}
